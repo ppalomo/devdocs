@@ -4,8 +4,165 @@
 
 <!-- toc -->
 
-- [Python](./docs/python.md)
-  - [Django](./docs/django.md)
-- [Git](./docs/git.md)
+- Agile Methodologies
+  - Scrum
+- Programming
+  - [SOLID Principles](./docs/programming/solid-principles.md)
+  - Algorithms
+    - [Sorting](./docs/programming/algorithms-sorting.md)
+    - [Searching](./docs/programming/algorithms-searching.md)
+    - [Graphs](./docs/programming/algorithms-graphs.md)
+    - [Algorithmic Paradigms](./docs/programming/algorithmic-paradigms.md)
+    - [Big-O Notation](./docs/programming/big-o-notation.md)
+- [Git](./docs/git/git.md)
+  - CI/CD Pipelines
+- DevOps
+  - Docker
+  - Kubernetes
+  - AWS
+  - FastAPI
+  - NodeJS
+- Python
+  - [Data Structures](./docs/python/data-structures.md)
+  - [Django](./docs/python/django.md)
+  - Unit Testing
+<!-- - Crypto
+  - Solidity Basics
+  - Blockchain Fundamentals
+    - Blockchain Basics
+    - Ethereum Knowledge
+    - Cryptography
+      - ZkSnarks
+      - ECDSA (Elliptic Curve Digital Signature Algorithm)
+    - Gas and Transactions
+    - Rollups
+      - Optimistic Rollups
+        - Arbitrum
+        - Optimism
+        - Base
+        - Mode Network
+      - zk-Rollups
+        - Starknet
+        - zkSync
+        - Polygon zkEVM
+        - Linea (Consensys)
+        - Scroll
+      - Optimium
+        - Manta
+        - Metis
+        - Mantle
+      - Validium
+        - Immutable X
+        - ZKFair
+    - Modular Blockchains
+      - Data Availability (DA)
+      - Celestia, Dymension, Polkadot(L0)
+    - Other L1s
+      - Solana
+      - Cardano
+      - Aptos
+      - Cosmos
+  - Security
+    - Security Fundamentals
+    - Common Vulnerabilities
+    - Ethernaut
+  - Best Practices and Design Patterns
+    - Solidity Style Guide
+    - Design Patterns
+      - Factory
+      - Proxy
+      - State Machine
+      - …
+    - Gas Optimization
+  - Development Tools and Testing
+    - Development Tools
+      - Remix
+      - Foundry
+      - Hardhat
+      - Vyper
+      - …
+    - Testing
+    - Testnets
+  - Tokens
+    - ERC20 (Token Standard)
+      - 1Inch Token Plugins
+    - NFTs
+      - ERC-721: Non-Fungible Token Standard
+      - Collectibles
+      - Marketplaces
+      - Personal Tokens
+    - ERC 6551 (Token Bound Accounts) ERC721 extended
+    - ERC-1155: Multi Token Standard
+    - Wrapped Tokens
+    - Non-Fungible Tokens
+    - ERC-404
+  - DAOs/Governance
+  - DeFi
+    - AMM (Automated Market Makers)
+      - CPAMM (Constant Product Automated Market Maker)
+      - Constant Sum AMM
+      - Constant Product AMM
+      - Stable Swap AMM
+      - Uniswap V2 Swap
+      - Uniswap V2 Add Remove Liquidity
+      - Uniswap V2 Optimal One Sided Supply
+      - Uniswap V2 Flash Swap
+      - Uniswap V3 Swap
+      - Uniswap V3 Liquidity
+      - Uniswap V3 Flash Loan
+      - Uniswap V3 Flash Swap Arbitrage
+    - Staking Rewards
+    - Liquid Staking
+    - Discrete Staking Rewards
+    - Vault
+    - Yield Farming
+    - Lending and Borrowing
+    - CDP (Collaterized Debt Position)
+    - Liquid Staking Derivatives (LSD) y LSDFi
+    - Re-staking
+      - EigenLayer
+      - ether.fi
+    - Stablecoins
+    - MEV (Miner Extractable Value)
+  - Oracles
+    - Hybris Smart Contracts (On-chain + Off-chain Agreements)
+    - Chainlink Price Oracle
+  - Account Abstraction
+    - ERC4337 (Account Abstraction Using Alt Mempool)
+  - Wallets
+    - MultiSig Wallet
+  - Advanced Solidity
+    - Gasless Token Transfer
+    - Iterable Mapping
+    - Precompute Contract Address with Create2
+    - Multi Call
+    - Multi Delegatecall
+    - Time Lock
+    - Assembly Binary Exponentiation
+  - Proxy Contracts
+    - Minimal Proxy Contract
+    - Upgradeable Proxy
+  - Contracts Deployment
+  - Auctions
+    - English Auction
+    - Dutch Auction
+  - Crowd Fund
+  - Blockchain Games
+  - Decentralized Social Media
+  - Decentralized Storage
+  - Frontend
+  - Bytecode Programming
+    - Yul
+    - Huff
+  - Other Blockchain Languages
+    - Rust - Solana
+    - Sway - Fuel
+  - Other Projects
+    - IPFS
+    - Celestia
+  - Libraries
+    - Openzeppeling
+    - Solmate -->
+
 
 <!-- tocstop -->
