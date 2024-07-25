@@ -1,6 +1,19 @@
 # Git
 
-## Initialization
+- [Git](#git)
+  - [Git Initialization](#git-initialization)
+    - [Configuring Git](#configuring-git)
+    - [Initializing a repository](#initializing-a-repository)
+    - [Adding a remote](#adding-a-remote)
+    - [Changing the remote](#changing-the-remote)
+  - [Commiting changes](#commiting-changes)
+    - [Commit \& Push](#commit--push)
+  - [Branches](#branches)
+    - [Show branches](#show-branches)
+    - [Merging a branch](#merging-a-branch)
+    - [Deleting a local branch](#deleting-a-local-branch)
+
+## Git Initialization
 
 ### Configuring Git
 
@@ -52,12 +65,19 @@ $ git push origin master
 
 ## Branches
 
-### Branches Management
+### Show branches
 
 ```shell
 # Show branches
 $ git branch
 
+# Show current branch
+$ git branch --show-current
+```
+
+### Merging a branch
+
+```shell
 # Checkout and create new local branch from current branch
 $ git checkout -b [branchName]
 

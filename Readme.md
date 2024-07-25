@@ -22,10 +22,17 @@
   - AWS
   - FastAPI
   - NodeJS
+  - Microservicios
+  - Jenkins
+  - Arquitectura Clean/Hexagonal/Orientada a Eventos
 - Python
+  - [Naming Conventions](./docs/python/naming-conventions.md)
   - [Data Structures](./docs/python/data-structures.md)
   - [Django](./docs/python/django.md)
   - Unit Testing
+- Databases
+  - MongoDB
+  - Redis
 <!-- - Crypto
   - Solidity Basics
   - Blockchain Fundamentals

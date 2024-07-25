@@ -1,5 +1,11 @@
 # Django
 
+- [Django](#django)
+  - [Installing Django](#installing-django)
+  - [Creating a new Django project](#creating-a-new-django-project)
+  - [???](#)
+
+
 ## Installing Django
 
 ```shell
@@ -32,12 +38,7 @@ $ python manage.py startapp app_name
 
 ```
 
-## Adding Git
+## ???
 
-```shell
-# Initializing our git repository
-$ git init
 
-$ 
-```
 
