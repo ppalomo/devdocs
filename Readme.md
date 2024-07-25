@@ -25,6 +25,7 @@
   - Microservicios
   - Jenkins
   - Arquitectura Clean/Hexagonal/Orientada a Eventos
+  - Celery
 - Python
   - [Naming Conventions](./docs/python/naming-conventions.md)
   - [Data Structures](./docs/python/data-structures.md)

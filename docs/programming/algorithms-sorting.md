@@ -6,21 +6,16 @@ The most popular sorting algorithms are:
 
 - [Sorting Algorithms](#sorting-algorithms)
   - [Bubble Sort](#bubble-sort)
-    - [Definition](#definition)
     - [Python implementation](#python-implementation)
     - [Complexity analysis](#complexity-analysis)
   - [Quick Sort](#quick-sort)
-    - [Definition](#definition-1)
     - [Python implementation](#python-implementation-1)
     - [Complexity analysis](#complexity-analysis-1)
   - [Merge Sort](#merge-sort)
-    - [Definition](#definition-2)
     - [Python implementation](#python-implementation-2)
     - [Complexity analysis](#complexity-analysis-2)
 
 ## Bubble Sort
-
-### Definition
 
 [Bubble sort](https://www.programiz.com/dsa/bubble-sort) is a sorting algorithm that compares two adjacent elements and swaps them until they are in the intended order.
 
@@ -62,8 +57,6 @@ def bubble_sort(arr):
 - Space Complexity: O(1)
 
 ## Quick Sort 
-
-### Definition
 
 [Quick Sort](https://www.programiz.com/dsa/quick-sort) is one of the most popular and efficient sorting algorithms. It is generally the default sorting algorithms in many programming languages (including C++ and Java).
 
@@ -107,8 +100,6 @@ def quick_sort(arr):
   - O(n) for recursion stack.
 
 ## Merge Sort
-
-### Definition
 
 [Merge Sort](https://www.programiz.com/dsa/merge-sort) is also a Divide and Conquer algorithm similar to Quick Sort. The input array right into two parts in the middle. The two parts are then sorted recursively and then merged to create the sorted array.
 
