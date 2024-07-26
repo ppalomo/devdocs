@@ -8,29 +8,40 @@
   - Scrum
 - Programming
   - [SOLID Principles](./docs/programming/solid-principles.md)
+  - [Data Structures](./docs/programming/data-structures.md)
+    - [Stacks (LIFO)](./docs/programming/data_structures/stacks.md)
+    - [Queues (FIFO)](./docs/programming/data_structures/queues.md)
+    - [Linked Lists](./docs/programming/data_structures/linked-lists.md)
+    - [Hash Tables](./docs/programming/data_structures/hash-tables.md)
+    - [Heaps](./docs/programming/data_structures/heaps.md)
+    - [Trees](./docs/programming/data_structures/trees.md)
+    - [Graphs](./docs/programming/data_structures/graphs.md)
   - Algorithms
     - [Sorting](./docs/programming/algorithms-sorting.md)
     - [Searching](./docs/programming/algorithms-searching.md)
     - [Graphs](./docs/programming/algorithms-graphs.md)
     - [Algorithmic Paradigms](./docs/programming/algorithmic-paradigms.md)
     - [Big-O Notation](./docs/programming/big-o-notation.md)
+  - Architectural Patterns (microservices, monolithic, event-driven)
 - [Git](./docs/git/git.md)
   - CI/CD Pipelines
+    - Jenkins
 - DevOps
-  - Docker
+  - Docker (Familiarity with Docker and Kubernetes for containerization and orchestration.)
   - Kubernetes
   - AWS
   - FastAPI
   - NodeJS
-  - Microservicios
-  - Jenkins
   - Arquitectura Clean/Hexagonal/Orientada a Eventos
   - Celery
-- Python
+- [Python](./docs/python/python.md)
   - [Naming Conventions](./docs/python/naming-conventions.md)
-  - [Data Structures](./docs/python/data-structures.md)
+  - [Built-in Data Types](./docs/python/built-in-data-types.md)
   - [Django](./docs/python/django.md)
-  - Unit Testing
+- Testing
+  - Familiarity with test doubles (fake, stub, mock) and their purposes.
+  - Previous contact with unit, integration and end-to-end testing;
+  - pytest
 - Databases
   - MongoDB
   - Redis

@@ -1,8 +1,10 @@
 # Data Structures
 
-???
 
-> arrays, linked lists, stacks, queues, hash tables, heaps, and trees (especially binary trees).
+-------------------
+
+- stacks, queues, linked lists, hash tables, heaps, trees, graphs
+> arrays, , , , , and  (especially binary trees).
 >
 > Arrays vs lists?
 >

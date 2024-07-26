@@ -14,6 +14,11 @@ The most popular sorting algorithms are:
   - [Merge Sort](#merge-sort)
     - [Python implementation](#python-implementation-2)
     - [Complexity analysis](#complexity-analysis-2)
+  - [Heap Sort](#heap-sort)
+    - [Python implementation](#python-implementation-3)
+    - [Complexity analysis](#complexity-analysis-3)
+
+![image](../../images/big-o-notation-4.png)
 
 ## Bubble Sort
 
@@ -166,3 +171,15 @@ def merge_sort(arr):
   - Worst Case: O(n log n)
 - Space Complexity
   - O(n) for recursion stack.
+
+## Heap Sort
+
+???
+
+### Python implementation
+
+???
+
+### Complexity analysis
+
+???

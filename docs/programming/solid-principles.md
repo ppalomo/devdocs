@@ -1,5 +1,7 @@
 # SOLID Principles
 
+> - Knowledge of SOLID principles and their real-world applications.
+
 - [SOLID Principles](#solid-principles)
   - [Definition](#definition)
   - [List of SOLID Principles](#list-of-solid-principles)
